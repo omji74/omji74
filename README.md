@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - <h1>OM Ji Dwivedi</h1>
+<img src="https://camo.githubusercontent.com/738a36493d9a83fdcc92ec00fc4d6453c6bd17c1e09d8eb5182f5b328e9167e4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d65707369743033266c61796f75743d636f6d70616374267468656d653d6461726b" alt="Most Used Language" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdwd74&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
 - 
 
 <!---
