@@ -8,7 +8,7 @@
 <p align="left"> 
  
   <img src="https://komarev.com/ghpvc/?username=omji74&label=Profile%20views&color=0e75b6&style=flat" alt="omji74" />
-   <img align="right" width="300px" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"/>
+ 
   </p>
 <!---
 omdwd74/omdwd74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
