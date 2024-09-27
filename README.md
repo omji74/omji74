@@ -3,9 +3,9 @@
   
 - <h1>OM JI Dwivedi</h1>
                             
+
 #### Github Stats
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=omji74&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omji74&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
 <p align="left"> 
  
