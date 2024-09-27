@@ -4,7 +4,6 @@
 - <h1>OM JI Dwivedi</h1>
                             
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=omji74&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ![omdwd74's Stats](https://github-readme-stats.vercel.app/api?username=omji74&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 <p align="left"> 
