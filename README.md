@@ -7,9 +7,9 @@
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=omji74&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
-<p align="left"> 
+<p align="bottom"> 
  
-  <img src="https://komarev.com/ghpvc/?username=omji74&label=Profile%20views&color=0e75b6&style=flat" alt="omji74" />
+  <img src="https://komarev.com/ghpvc/?username=omji74&label=Profile%20views&color=0e75b6&style=flat" alt="omji74" align="bottom" />
  
   </p>
 <!---
