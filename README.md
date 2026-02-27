@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @omji74
-  <h3>I write code &hearts;</h3>
-  
-- <h1>OM JI Dwivedi</h1>
-                            
-
+  <h3>I write code &hearts;</h3>                            
+![LeetCode Stats](https://leetcard.jacoblin.cool/omji74?theme=dark&font=Sora&ext=contest)
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=omji74&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=omji74&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=omji74&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omji74&layout=compact&theme=radical)
 <p align="bottom"> 
  
   <img src="https://komarev.com/ghpvc/?username=omji74&label=Profile%20views&color=0e75b6&style=flat" alt="omji74" align="bottom" />
